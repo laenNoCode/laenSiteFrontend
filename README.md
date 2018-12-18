@@ -1,6 +1,6 @@
-# vuetest
+# laenSite
 
-> first vue project
+> laen's website
 
 ## Build Setup
 
