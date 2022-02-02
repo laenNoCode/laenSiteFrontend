@@ -22,10 +22,18 @@ export default{
             },{
                 text:"projects",
                 link:"projects"
-            },]
+            },{
+                text:"CV",
+                link:"EnCV"
+            }]
         }
     }
 }
 </script>
 <style>
+@media print{
+    nav{
+        display:none;
+    }
+}
 </style>
